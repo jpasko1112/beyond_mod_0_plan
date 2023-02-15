@@ -1,0 +1,7 @@
+# Beyond Mod 0 Plan
+---
+My plan for the time between now and Mod 1 is to establish a multiple day per week gym routine in the morning after dropping my daughter off at school. After the gym, showering and eating breakfast, i plan to spend at least an hour practicing what we have learned so far while also incorporating teachings from other sources (The Odin Project, freeCodeCamp, YouTube etc.).
+
+Considering Mod 1 will be so intensive, i'm going to make sure i'm doing fun family activities on the weekedns like hiking and going to the park. I know that i'll get plenty of family time in because we do family dinners nightly and my wife and i both partake in the bedtime routine for our daughter.  My wife and i have a couple dates planned after Mod 0 which i'm going to truly cherish, not knowing when we'll be able to have one again. Regarding friends, I usually see them 1-2 times a week and plan to do so throughout all of Turing unless a deadline needs to be met, that is something i'm going to play by ear.
+
+I plan to keep in touch with the classmates i've started building relationships with and am more than happy/ will encourage to practice pairing and going over what we have learned so far.
